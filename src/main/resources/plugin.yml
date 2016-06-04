@@ -1,0 +1,6 @@
+name: SurvivalOreMiner
+main: com.mcmiddleearth.survivaloreminer.SurvialOreMinerPlugin
+version: 1.0
+description: Mine ores from stone
+load: POSTWORLD
+depend: [PluginUtils]
